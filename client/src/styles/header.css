@@ -1,0 +1,15 @@
+#header{
+    text-align: left;
+    background-color: #4E79A0;
+    width: 20%;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    
+}
+
+.links{
+    margin-right: 25px;
+    text-decoration: none;
+    color: aliceblue;
+}

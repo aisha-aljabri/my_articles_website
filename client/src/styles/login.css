@@ -1,0 +1,17 @@
+.login{
+    width: 30%;
+    background-color: #4E79A0;
+    border-radius: 10px;
+    padding: 50px;
+    color: aliceblue;
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+}
+
+.login *{
+    width: 80%;
+    height: 30px;
+    margin-bottom: 40px;
+}
+

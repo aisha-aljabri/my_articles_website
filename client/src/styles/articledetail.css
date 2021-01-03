@@ -1,0 +1,21 @@
+#content{
+    width: 80%;
+    min-height: 500px;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    background-color: #4E79A0;
+    border-radius: 10px;
+    padding-top: 20px;
+}
+
+
+#article{
+    padding: 50px;
+    border-radius: 10px;
+    background-color: #f5faff;
+    width: 90%;
+    min-height: 400px;
+    margin: auto;
+    margin-bottom: 20px;
+}

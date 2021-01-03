@@ -1,0 +1,41 @@
+#articles{
+    width: 80%;
+    margin: auto;
+    padding: 10px;
+    text-align: left;
+    background-color: #4E79A0;
+    border-radius: 10px;
+    padding-top: 20px;
+    min-height: 500px;
+}
+
+
+
+.articlelink{
+    font-size: 20px;
+    text-decoration: none;
+    color:  rgb(82, 91, 131);
+    font-weight: bold;
+}
+
+span{
+    font-size: 13px;
+}
+
+.cards{
+    background-color: #f5faff;
+    padding: 15px;
+    width: 95%;
+    text-align: left;
+    margin: auto;
+    margin-bottom: 10px;
+    
+}
+
+.likes{
+    padding-left: 95%;
+}
+
+b{
+    margin-bottom: 10px;
+}

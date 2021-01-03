@@ -1,0 +1,14 @@
+p *{
+    width: 90%;
+}
+
+form{
+    width: 60%;
+    text-align: left;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+select{
+    height: 50px;
+}

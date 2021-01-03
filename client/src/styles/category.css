@@ -1,0 +1,29 @@
+button{
+    width: 300px;
+    height: 300px;
+    margin: 30px;
+    background-color: #4E79A0;
+    border: 7px solid white;
+    border-radius: 150px;
+    color: #d1e9ff;
+    text-align: left;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-left: 20px;
+}
+
+.icons{
+    width: 100px;
+    height: 100px;
+    margin-left: 75px;
+}
+
+span{
+    font-size: 13px;
+}
+
+.list{
+    width: 80%;
+    /* border-bottom: 1px solid #cbd1d6; */
+    padding-left: 10px;
+}
